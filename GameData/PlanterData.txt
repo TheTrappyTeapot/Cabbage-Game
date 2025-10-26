@@ -1,0 +1,2 @@
+Hydroponic,BlueLEDBulb,,tomatoes,startTick,finishTick,,beans,startTick,finishTick,,broccoli,startTick,finishTick,,,SuperDirt,YellowLEDBulb,,potatoes,startTick,finishTick,,broccoli,startTick,finishTick,,cabbage,startTick,finishTick,,,Dirt,YellowHalogenBulb,,cabbage,startTick,finishTick,,cabbage,startTick,finishTick,,beans,startTick,finishTick
+
